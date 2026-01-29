@@ -5,7 +5,7 @@ Docente: Victor Hugo Menéndez Domínguez
 
 ## :baby_chick: Integrantes del equipo: 
 | Nombre | Rol | Fotografia |
-|----------------------------|
+|--------|--------|------------|
 |[Cristian De Martino Ricci](https://github.com/) | N/A | <img src="assets/fotosIntegrantes/cristian.jpeg" width="150" height="250"/> |
 | [Giuseph Alexis Chan Torres](https://github.com/CarlosRomero123) | N/A | <img src="assets/fotosIntegrantes/giusiph.jpg" width="150" height="250"/>|
 | [Aldrin Enrique Novelo Góngora](https://github.com/Aldrin1710) | N/A | <img src="assets/fotosIntegrantes/aldrin.jpg" width="150" height="250"/>|
