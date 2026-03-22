@@ -15,6 +15,6 @@ Docente: Victor Hugo Menéndez Domínguez
 
 ##  :computer: Entregas del proyecto
 
-:one: [Primera Entrega](https://github.com/Aldrin1710/Interaccion-Humano-Computadora-2026/blob/main/Entregas/Primera%20Entrega)
+:one: [Primera Entrega](./Primera%20Entrega)
 
-:arrow_double_down: [Entrega final](https://github.com/Aldrin1710/Interaccion-Humano-Computadora-2026/blob/main/Entregas/Entrega%20Final)
+:arrow_double_down: [Entrega final](./Entrega%20Final)
